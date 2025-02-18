@@ -53,7 +53,7 @@ const profileData = {
           <Avatar.Root className="w-10 h-10 rounded-full overflow-hidden border-2 border-white">
             <Avatar.Image src={profileData.user.avatar} alt={profileData.user.name} className="w-full h-full object-cover" />
             <Avatar.Fallback className="w-full h-full flex items-center justify-center bg-gray-300 text-gray-600">
-              JW
+              KA
             </Avatar.Fallback>
           </Avatar.Root>
           <div className="text-white font-medium">Hello, Welcome {profileData.user.name}</div>
