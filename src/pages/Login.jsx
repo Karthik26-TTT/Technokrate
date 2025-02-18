@@ -14,9 +14,8 @@ const profileData = {
     mainImage:
       "https://img.freepik.com/free-photo/handsome-young-indian-student-man-holding-notebooks-while-standing-street_231208-2773.jpg?ga=GA1.1.2124410383.1734072035&semt=ais_hybrid",
     description: [
-      "We are a team of dedicated professionals driven by creativity, innovation, and a passion for exceptional design. With years of expertise in mobile application and website design, we specialize in transforming ideas into captivating digital experiences that seamlessly combine functionality and aesthetics.",
-      "Our approach is centered on understanding the unique needs of each client, ensuring every project we undertake not only aligns with their vision but also elevates their brand in the digital space.",
-      "At the core of our work is our mastery of modern design tools like Figma, which allows us to bring concepts to life with precision and style. We take pride in crafting user-centric designs that are not only visually appealing and optimized for performance. From creating sleek mobile applications to designing impactful websites, we aim to deliver solutions that resonate with users and leave a lasting impression.",
+      "We are a creative team of designers and developers dedicated to building seamless digital experiences. With expertise in website and mobile application development, we focus on crafting intuitive and visually stunning user interfaces that enhance engagement and functionality. Our approach revolves around understanding each client's unique needs, ensuring that every project not only aligns with their vision but also strengthens their digital presence. Using modern design tools like Figma and Adobe XD, we transform ideas into interactive and responsive designs that blend aesthetics with performance. Whether it's a dynamic mobile app or a sleek corporate website, we are committed to delivering innovative solutions that leave a lasting impact.",
+      
     ],
   },
   contact: {
